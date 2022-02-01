@@ -42,11 +42,9 @@
     "src",
     "dist"
   ],
-  "dependencies": {},
   "repository": "https://github.com/calebbenjin/sveltecore-ui.git",
   "author": "calebbenjin <calebben94@gmail.com>",
   "license": "MIT",
-
   "publishConfig": {
     "access": "public"
   }
