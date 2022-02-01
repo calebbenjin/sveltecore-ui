@@ -1,6 +1,6 @@
 {
   "name": "@sveltecore/headless-svelteui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -42,7 +42,12 @@
     "src",
     "dist"
   ],
+  "dependencies": {},
   "repository": "https://github.com/calebbenjin/sveltecore-ui.git",
   "author": "calebbenjin <calebben94@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+
+  "publishConfig": {
+    "access": "public"
+  }
 }
